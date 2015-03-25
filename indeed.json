@@ -1,0 +1,147 @@
+{
+ "name": "indeed",
+ "children": [
+  {
+   "name": "NewYork",
+   "children": [
+    {
+     "name": "R",
+     "children": [
+      {"name": "R", "counts": 965},
+      {"name": "ggplot", "counts": 1}
+     ]
+    },
+    {
+     "name": "Python",
+     "children": [
+      {"name": "Python", "counts": 1126},
+      {"name": "NLP", "counts": 25},
+      {"name": "Scraping", "counts": 5}
+     ]
+    },
+    {
+     "name": "SAS",
+     "children": [
+      {"name": "SAS", "counts": 1045},
+      {"name": "SAS+Macro", "counts": 94}
+     ]
+    },
+    {"name": "SPSS", "counts": 427},
+    {"name": "Excel", "counts": 9153},
+    {
+     "name": "Statistics",
+     "children": [
+      {"name": "Statistics", "counts": 2035},
+      {"name": "Clustering", "counts": 179},
+      {"name": "Classification", "counts": 828},
+      {"name": "Regression", "counts": 478},
+      {"name": "Mathematics", "counts": 1253},
+      {"name": "ExperimentalDesign", "counts": 193},
+      {"name": "StatisticalInference", "counts": 72}
+     ]
+    },
+    {
+     "name": "MachineLearning",
+     "children": [
+      {"name": "Machine Learning", "counts": 340},
+      {"name": "C/C++", "counts": 8},
+      {"name": "Java", "counts": 1991},
+      {"name": "Algorithms", "counts": 610},
+      {"name": "RecommendationSystem", "counts": 2376},
+      {"name": "DecisionTree", "counts": 74},
+      {"name": "NeuralNetworks", "counts": 35},
+      {"name": "UnsupervisedLearning", "counts": 15}
+     ]
+    },
+    {
+     "name": "Database",
+     "children": [
+      {"name": "Database", "counts": 4066},
+      {"name": "SQL", "counts": 3992}
+     ]
+    },
+    {
+     "name": "Visualization",
+     "children": [
+      {"name": "Visualization", "counts": 611},
+      {"name": "Javascript", "counts": 1106},
+      {"name": "D3.js", "counts": 16},
+      {"name": "Tableau", "counts": 385},
+      {"name": "HTML", "counts": 932}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "California",
+   "children": [
+    {
+     "name": "R",
+     "children": [
+      {"name": "R", "counts": 1904},
+      {"name": "ggplot", "counts": 6}
+     ]
+    },
+    {
+     "name": "Python",
+     "children": [
+      {"name": "Python", "counts": 3372},
+      {"name": "NLP", "counts": 84},
+      {"name": "Scraping", "counts": 15}
+     ]
+    },
+    {
+     "name": "SAS",
+     "children": [
+      {"name": "SAS", "counts": 1522},
+      {"name": "SAS+Macro", "counts": 168}
+     ]
+    },
+    {"name": "SPSS", "counts": 430},
+    {"name": "Excel", "counts": 15578},
+    {
+     "name": "Statistics",
+     "children": [
+      {"name": "Statistics", "counts": 3543},
+      {"name": "Clustering", "counts": 339},
+      {"name": "Classification", "counts": 2355},
+      {"name": "Regression", "counts": 823},
+      {"name": "Mathematics", "counts": 1970},
+      {"name": "ExperimentalDesign", "counts": 822},
+      {"name": "StatisticalInference", "counts": 140}
+     ]
+    },
+    {
+     "name": "MachineLearning",
+     "children": [
+      {"name": "Machine Learning", "counts": 1085},
+      {"name": "C/C++", "counts": 34},
+      {"name": "Java", "counts": 4306},
+      {"name": "Algorithms", "counts": 2096},
+      {"name": "RecommendationSystem", "counts": 5947},
+      {"name": "DecisionTree", "counts": 161},
+      {"name": "NeuralNetworks", "counts": 54},
+      {"name": "UnsupervisedLearning", "counts": 85}
+     ]
+    },
+    {
+     "name": "Database",
+     "children": [
+      {"name": "Database", "counts": 7648},
+      {"name": "SQL", "counts": 6628}
+     ]
+    },
+    {
+     "name": "Visualization",
+     "children": [
+      {"name": "Visualization", "counts": 1265},
+      {"name": "Javascript", "counts": 2300},
+      {"name": "D3.js", "counts": 41},
+      {"name": "Tableau", "counts": 839},
+      {"name": "HTML", "counts": 1892}
+     ]
+    }
+   ]
+  }
+ ]
+}
